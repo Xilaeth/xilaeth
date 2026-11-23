@@ -16,7 +16,7 @@ I am excited to contribute to a mechanistic understanding of biological processe
 
 ### Highlighted Repositories
 
-- **3D Actin Mechanobiology** — Agent-based simulation and confocal microscopy reconstruction of human lymph node actin networks
-- **Bayesian Inference & Decision Theory** — Stan/Quarto workflows for sea-level forecasting, 2D Rosenbrock MCMC, and decision theory
-- **Ising Model Simulation** — 2D Metropolis–Hastings MCMC simulation of ferromagnetic phase transitions
-- **Schrödinger Solver** — C++/Python Crank–Nicolson and Gauss–Seidel solver for 1D/2D quantum wavepackets
+- **3D Actin Mechanobiology**: Agent-based simulation and confocal microscopy reconstruction of human lymph node actin networks
+- **Bayesian Inference & Decision Theory**: Stan/Quarto workflows for sea-level forecasting, 2D Rosenbrock MCMC, and decision theory
+- **Ising Model Simulation**: 2D Metropolis–Hastings MCMC simulation of ferromagnetic phase transitions
+- **Schrödinger Solver**: C++/Python Crank–Nicolson and Gauss–Seidel solver for 1D/2D quantum wavepackets
